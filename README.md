@@ -1,4 +1,4 @@
 Mimmit-Collection
 =================
 
-Mimmit minigames and World
+Minigames and World
